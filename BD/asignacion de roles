@@ -1,0 +1,12 @@
+model_has_permissions   model_id = id de user
+
+
+
+
+
+roles --> permisos
+usuario ---> roles
+usuario ---> permisos
+
+
+al usuario se le van a poder asisnar roles y tambien permisos a la asignacion de permisos se le llamara permisos especiales ya que no estan asignados a ningun rol o no estan dentro de un rol, en la asignacion de rol cuando este intente asignar un permiso a un usuario, primero deve ver si ese usuario no tiene el rol con el permiso que desea agregar en caso de que si tenga un rol con el permiso que intenta agregar deve regresar un mensnaje de que ese permiso ya esta asignado con el rol tal, tambine regresar el nombre del rol

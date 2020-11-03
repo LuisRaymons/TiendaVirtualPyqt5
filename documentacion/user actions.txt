@@ -1,0 +1,8 @@
+roles para los diferentes tipo de usuarios
+
+----------------------------------------Administrador---------------------------------------
+todo los permisos
+--------------------------------------------ayudante----------------------------------------
+mostrar tablas
+crear ventas
+crear almacen
